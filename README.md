@@ -32,10 +32,10 @@ Pour utiliser GHunt, il faut nécessairement se connecter avec un compte gmail. 
 Pour récuperer les cookies, installez l'extension suivante dans Google Chrome.<br><br>
 [![Chrome](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/ghunt-companion/dpdcofblfbmmnikcbmmiakkclocadjab)<br>
 Connectez-vous avec votre compte Google.<br><br>
-Rendez vous dans le projet et lancez le main.py avec l'argument login.<br>
-Le plus simple est de le lancer sans argument avec le bouton Run. Ensuite vous copiez la commande qui a été insérée dans votre terminal pour lancer le main. Copiez-là et ajoutez l'argument login à la fin.<br>
+Rendez-vous dans le projet et lancez le main.py avec l'argument login.<br>
+Le plus simple est de le lancer sans argument avec le bouton Run. Ensuite vous copiez la commande qui a été insérée dans votre terminal pour lancer le main. Copiez là et ajoutez l'argument login à la fin.<br>
 Si vous êtes sur Windows, le chemin pour accéder à python peut comprendre des espaces. Si c'est le cas, utilisez des guillemets.<br>
-> Ex : C:\Users\example path\python3.10 mettez des guillemets autour de example path pour obtenir C:\Users\'example path'\python3.10<br>
+> Ex : C:\Users\example path\python3.10 mettez des guillemets autour de example path pour obtenir C:\Users\\'example path\'\python3.10<br>
 
 Utilisez la méthode 1 ou 2 comme vous le souhaitez pour vous connecter.<br>
 
