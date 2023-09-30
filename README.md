@@ -13,16 +13,29 @@ L'outil que vous allez utiliser s'appelle GHunt. Il est très réputé en OSINT 
 
 ### Installation de GHunt 🕵️
 
+⚠️ Prérequis ⚠️<br>
+ Python 3.10 ou supérieur<br>
+ Navigateur Google Chrome<br>
+ Compte Google<br>
+
 Clonez le répertoire GitHub suivant sur votre ordinateur.<br>
 https://github.com/mxrch/ghunt
 <br>
-Placez vous dans le répertoire contenant le dossier ghunt et créez un environnement python (ceci vous évite d'installer les dépendances directement sur votre machine). Pour ce faire, utilisez la commande suivante.
-```
-python -m venv /path/to/directory/ghunt
-```
-Pour utiliser GHunt, il faut nécéssairement se connecter avec un compte gmail. Pour celà, il va falloir récupérer les cookies de connexion de votre compte. Si vous n'êtes pas rassurés à l'idée d'utiliser vos cookies de connexion, créez vous un autre compte.<br>
 
-Pour récuperer les cookies, installez l'extension suivante dans votre navigateur.<br><br>
-[![Firefox](https://files.catbox.moe/5g2ld5.png)](https://addons.mozilla.org/en-US/firefox/addon/ghunt-companion/)&nbsp;&nbsp;&nbsp;[![Chrome](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/ghunt-companion/dpdcofblfbmmnikcbmmiakkclocadjab)
+Ouvrez le dossier avec PyCharm afin de créer un environnement virtuel (venv) permettant de ne pas installer les dépendances utilisées par le projet directement sur votre machine. Vous pouvez aussi le faire en ligne de commande si vous le souhaitez. Installez ensuite les dépendences nécéssaires à l'aide du fichier requirements.txt<br>
+
+Pour utiliser GHunt, il faut nécessairement se connecter avec un compte gmail. Pour celà, il va falloir récupérer les cookies de connexion de votre compte. Si vous n'êtes pas rassurés à l'idée d'utiliser vos cookies de connexion, créez vous un autre compte.<br>
+
+Pour récuperer les cookies, installez l'extension suivante dans Google Chrome.<br><br>
+[![Chrome](https://storage.googleapis.com/web-dev-uploads/image/WlD8wC6g8khYWPJUsQceQkhXSlv1/UV4C4ybeBTsZt43U4xis.png)](https://chrome.google.com/webstore/detail/ghunt-companion/dpdcofblfbmmnikcbmmiakkclocadjab)<br>
+Connectez-vous avec votre compte Google<br>
+Rendez vous dans le projet et lancez le main.py avec l'argument login.<br>
+Le plus simple est de le lancer sans argument avec le bouton Run. Ensuite vous copiez la commande qui a été insérée dans votre terminal pour lancer le main. Copiez-là et ajoutez l'argument login à la fin.<br>
+Si vous êtes sur Windows, le chemin pour accéder à python peut comprendre des espaces. Si c'est le cas, utilisez des guillemets.<br>
+> Ex : C:\Users\example path\python3.10 mettez des guillemets autour de example path pour obtenir C:\Users\'example path'\python3.10<br>
+
+Utilisez la méthode 1 ou 2 comme vous le souhaitez pour vous connecter.<br>
+
+Pour analyser un mail Google, utilisez simplement l'argument email <mail>.
 
 
