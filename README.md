@@ -18,6 +18,7 @@ L'outil que vous allez utiliser s'appelle GHunt. Il est très réputé en OSINT 
 ⚠️ Prérequis ⚠️<br>
  Python 3.10 ou supérieur<br>
  Navigateur Google Chrome<br>
+ PyCharm (de préférence)<br>
  Compte Google<br>
 
 Clonez le répertoire GitHub suivant sur votre ordinateur.<br>
