@@ -1,11 +1,13 @@
 # TP d'OSINT 🔍
 ## Le scénario
-Vous êtes actuellement en recherche d'une PS5 sur leboncoin. Une annonce très agichante vous attire l'oeuil et vous passez commande ! Malheureusement, il s'agissait d'une arnaque. Vous avez accès à la conversation qui a eu lieu via le chat leboncoin pour trouver la localisation de la personne et son véritable nom. Utilisez ce qui vous a été présenté pendant le cours pour y parvenir.<br><br>
+Vous êtes actuellement en recherche d'une PS5 sur leboncoin. Une annonce très agichante vous attire l'œil et vous passez commande ! Malheureusement, il s'agissait d'une arnaque. Vous avez accès à la conversation qui a eu lieu via le chat leboncoin pour trouver la localisation de la personne et son véritable nom. Utilisez ce qui vous a été présenté pendant le cours pour y parvenir.<br><br>
 **À vous de jouer** !
 
 ## Recherche du mail ✉️
 
-Premièrement, concentrez vous sur la recherche du mail de l'arnaqueuse. Étudiez toutes les pistes.
+Premièrement, concentrez vous sur la recherche du mail de l'arnaqueuse. Étudiez toutes les pistes.<br>
+Voici le lien vous permettant d'accéder à la conversation que vous avez eu avec elle :<br>
+https://lemauvaiscoin.ddns.net
 
 ## Le mail a été trouvé ? Trouvez maintenant la localisation 📍
 
